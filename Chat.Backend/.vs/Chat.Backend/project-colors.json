@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6c574e1b-313a-49db-912b-87a503c8b6fa": {
+      "ProjectGuid": "6c574e1b-313a-49db-912b-87a503c8b6fa",
+      "DisplayName": "Chat.WebApi2",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

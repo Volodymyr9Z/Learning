@@ -1,0 +1,17 @@
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\obj\Debug\net5.0\GloboTicket.TicketManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\obj\Debug\net5.0\GloboTicket.TicketManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\obj\Debug\net5.0\GloboTicket.TicketManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\obj\Debug\net5.0\GloboTicket.TicketManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\obj\Debug\net5.0\GloboTicket.TicketManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\bin\Debug\net5.0\GloboTicket.TicketManagement.Infrastructure.deps.json
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\bin\Debug\net5.0\GloboTicket.TicketManagement.Infrastructure.dll
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\bin\Debug\net5.0\ref\GloboTicket.TicketManagement.Infrastructure.dll
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\bin\Debug\net5.0\GloboTicket.TicketManagement.Infrastructure.pdb
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\bin\Debug\net5.0\GloboTicket.TicketManagement.Application.dll
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\bin\Debug\net5.0\GloboTicket.TicketManagement.Domain.dll
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\bin\Debug\net5.0\GloboTicket.TicketManagement.Application.pdb
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\bin\Debug\net5.0\GloboTicket.TicketManagement.Domain.pdb
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\obj\Debug\net5.0\GloboTicket.TicketManagement.Infrastructure.csproj.CopyComplete
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\obj\Debug\net5.0\GloboTicket.TicketManagement.Infrastructure.dll
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\obj\Debug\net5.0\ref\GloboTicket.TicketManagement.Infrastructure.dll
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\obj\Debug\net5.0\GloboTicket.TicketManagement.Infrastructure.pdb

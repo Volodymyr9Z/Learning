@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "86a002dd-37d1-45d8-9328-ee763311f03d": {
+      "ProjectGuid": "86a002dd-37d1-45d8-9328-ee763311f03d",
+      "DisplayName": "GloboTicket.TicketManagement.Domain",
+      "ColorIndex": 0
+    },
+    "40ea0d5d-6700-4380-84f8-ef18850dd213": {
+      "ProjectGuid": "40ea0d5d-6700-4380-84f8-ef18850dd213",
+      "DisplayName": "GloboTicket.TicketManagement.Application",
+      "ColorIndex": 1
+    },
+    "5842d8ee-b9fd-432f-b61c-79baba52abdd": {
+      "ProjectGuid": "5842d8ee-b9fd-432f-b61c-79baba52abdd",
+      "DisplayName": "GloboTicket.TicketManagement.Persistence",
+      "ColorIndex": 2
+    },
+    "05076bf8-a2e6-4cfc-92e3-e649501b4a6a": {
+      "ProjectGuid": "05076bf8-a2e6-4cfc-92e3-e649501b4a6a",
+      "DisplayName": "GloboTicket.TicketManagement.Infrastructure",
+      "ColorIndex": 3
+    },
+    "23d67d0b-1806-4d0d-aeb0-b8d8a7e214e1": {
+      "ProjectGuid": "23d67d0b-1806-4d0d-aeb0-b8d8a7e214e1",
+      "DisplayName": "GloboTicket.TicketManagement.Api",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

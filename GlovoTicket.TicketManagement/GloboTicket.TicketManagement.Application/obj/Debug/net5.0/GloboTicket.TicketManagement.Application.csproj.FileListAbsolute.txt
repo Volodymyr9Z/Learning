@@ -1,0 +1,15 @@
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Application\bin\Debug\net5.0\GloboTicket.TicketManagement.Application.deps.json
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Application\bin\Debug\net5.0\GloboTicket.TicketManagement.Application.dll
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Application\bin\Debug\net5.0\ref\GloboTicket.TicketManagement.Application.dll
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Application\bin\Debug\net5.0\GloboTicket.TicketManagement.Application.pdb
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Application\bin\Debug\net5.0\GloboTicket.TicketManagement.Domain.dll
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Application\bin\Debug\net5.0\GloboTicket.TicketManagement.Domain.pdb
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Application\obj\Debug\net5.0\GloboTicket.TicketManagement.Application.csproj.AssemblyReference.cache
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Application\obj\Debug\net5.0\GloboTicket.TicketManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Application\obj\Debug\net5.0\GloboTicket.TicketManagement.Application.AssemblyInfoInputs.cache
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Application\obj\Debug\net5.0\GloboTicket.TicketManagement.Application.AssemblyInfo.cs
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Application\obj\Debug\net5.0\GloboTicket.TicketManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Application\obj\Debug\net5.0\GloboTicket.TicketManagement.Application.csproj.CopyComplete
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Application\obj\Debug\net5.0\GloboTicket.TicketManagement.Application.dll
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Application\obj\Debug\net5.0\ref\GloboTicket.TicketManagement.Application.dll
+C:\Users\VolodymyrZlaman\Desktop\Learning\GlovoTicket.TicketManagement\GloboTicket.TicketManagement.Application\obj\Debug\net5.0\GloboTicket.TicketManagement.Application.pdb

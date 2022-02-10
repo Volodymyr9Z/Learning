@@ -1,0 +1,15 @@
+C:\Users\VolodymyrZlaman\Desktop\Learning\02\demos\Demo\5.0\m2\before\JurisTempus.Data\bin\Debug\net5.0\JurisTempus.Data.deps.json
+C:\Users\VolodymyrZlaman\Desktop\Learning\02\demos\Demo\5.0\m2\before\JurisTempus.Data\bin\Debug\net5.0\JurisTempus.Data.runtimeconfig.json
+C:\Users\VolodymyrZlaman\Desktop\Learning\02\demos\Demo\5.0\m2\before\JurisTempus.Data\bin\Debug\net5.0\JurisTempus.Data.runtimeconfig.dev.json
+C:\Users\VolodymyrZlaman\Desktop\Learning\02\demos\Demo\5.0\m2\before\JurisTempus.Data\bin\Debug\net5.0\JurisTempus.Data.dll
+C:\Users\VolodymyrZlaman\Desktop\Learning\02\demos\Demo\5.0\m2\before\JurisTempus.Data\bin\Debug\net5.0\ref\JurisTempus.Data.dll
+C:\Users\VolodymyrZlaman\Desktop\Learning\02\demos\Demo\5.0\m2\before\JurisTempus.Data\bin\Debug\net5.0\JurisTempus.Data.pdb
+C:\Users\VolodymyrZlaman\Desktop\Learning\02\demos\Demo\5.0\m2\before\JurisTempus.Data\obj\Debug\net5.0\JurisTempus.Data.csproj.AssemblyReference.cache
+C:\Users\VolodymyrZlaman\Desktop\Learning\02\demos\Demo\5.0\m2\before\JurisTempus.Data\obj\Debug\net5.0\JurisTempus.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VolodymyrZlaman\Desktop\Learning\02\demos\Demo\5.0\m2\before\JurisTempus.Data\obj\Debug\net5.0\JurisTempus.Data.AssemblyInfoInputs.cache
+C:\Users\VolodymyrZlaman\Desktop\Learning\02\demos\Demo\5.0\m2\before\JurisTempus.Data\obj\Debug\net5.0\JurisTempus.Data.AssemblyInfo.cs
+C:\Users\VolodymyrZlaman\Desktop\Learning\02\demos\Demo\5.0\m2\before\JurisTempus.Data\obj\Debug\net5.0\JurisTempus.Data.csproj.CoreCompileInputs.cache
+C:\Users\VolodymyrZlaman\Desktop\Learning\02\demos\Demo\5.0\m2\before\JurisTempus.Data\obj\Debug\net5.0\JurisTempus.Data.dll
+C:\Users\VolodymyrZlaman\Desktop\Learning\02\demos\Demo\5.0\m2\before\JurisTempus.Data\obj\Debug\net5.0\ref\JurisTempus.Data.dll
+C:\Users\VolodymyrZlaman\Desktop\Learning\02\demos\Demo\5.0\m2\before\JurisTempus.Data\obj\Debug\net5.0\JurisTempus.Data.pdb
+C:\Users\VolodymyrZlaman\Desktop\Learning\02\demos\Demo\5.0\m2\before\JurisTempus.Data\obj\Debug\net5.0\JurisTempus.Data.genruntimeconfig.cache

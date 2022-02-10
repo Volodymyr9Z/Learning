@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{F405514D-56C0-4762-BDF4-4036437BC0D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{9021FB0A-6206-4E8B-A166-2CCCFBE0BE18}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{24B47602-B7A1-4A80-B8E2-6CCB71603C6F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{2705BDA0-DBCC-4976-A49A-ABD936339FB1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chat.Domain", "Chat.Domain\Chat.Domain.csproj", "{3D3B3F79-9794-4756-A94F-D5C8A779AE62}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chat.Application", "Chat.Application\Chat.Application.csproj", "{3C9A5358-DBAB-430F-A554-C9F73F30455C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chat.Persistence", "Chat.Persistence\Chat.Persistence.csproj", "{96AD1386-F786-49E8-A4CF-4FF0B9C0EA3E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chat.WebApi", "Chat.WebApi\Chat.WebApi.csproj", "{91FEBF0E-6FD1-4912-AF14-F7B511A2F7AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat.WebApi2", "Chat.WebApi2.0\Chat.WebApi2.csproj", "{6C574E1B-313A-49DB-912B-87A503C8B6FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D3B3F79-9794-4756-A94F-D5C8A779AE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D3B3F79-9794-4756-A94F-D5C8A779AE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D3B3F79-9794-4756-A94F-D5C8A779AE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D3B3F79-9794-4756-A94F-D5C8A779AE62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C9A5358-DBAB-430F-A554-C9F73F30455C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C9A5358-DBAB-430F-A554-C9F73F30455C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C9A5358-DBAB-430F-A554-C9F73F30455C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C9A5358-DBAB-430F-A554-C9F73F30455C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96AD1386-F786-49E8-A4CF-4FF0B9C0EA3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96AD1386-F786-49E8-A4CF-4FF0B9C0EA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96AD1386-F786-49E8-A4CF-4FF0B9C0EA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96AD1386-F786-49E8-A4CF-4FF0B9C0EA3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91FEBF0E-6FD1-4912-AF14-F7B511A2F7AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91FEBF0E-6FD1-4912-AF14-F7B511A2F7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91FEBF0E-6FD1-4912-AF14-F7B511A2F7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91FEBF0E-6FD1-4912-AF14-F7B511A2F7AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C574E1B-313A-49DB-912B-87A503C8B6FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C574E1B-313A-49DB-912B-87A503C8B6FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C574E1B-313A-49DB-912B-87A503C8B6FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C574E1B-313A-49DB-912B-87A503C8B6FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3D3B3F79-9794-4756-A94F-D5C8A779AE62} = {9021FB0A-6206-4E8B-A166-2CCCFBE0BE18}
+		{3C9A5358-DBAB-430F-A554-C9F73F30455C} = {9021FB0A-6206-4E8B-A166-2CCCFBE0BE18}
+		{96AD1386-F786-49E8-A4CF-4FF0B9C0EA3E} = {F405514D-56C0-4762-BDF4-4036437BC0D7}
+		{91FEBF0E-6FD1-4912-AF14-F7B511A2F7AF} = {24B47602-B7A1-4A80-B8E2-6CCB71603C6F}
+		{6C574E1B-313A-49DB-912B-87A503C8B6FA} = {24B47602-B7A1-4A80-B8E2-6CCB71603C6F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C339D819-2B9A-4071-A2AC-6A4FA1025669}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+git show HEAD^  - show parent commit
+git show HEAD~1  - show parent commit
+git show HEAD^^ - show grandparent commit
+git show HEAD~2  - show parent commit
+git show Head~2^2 - show second parent of grandparent commit
+git show HEAD@{"1 month ago"}
+git diff HEAD HEAD~2 - show differents between other commits
+git diff master otherBranch - show differents between branches
+git rebase -i origin/master - changing history of commit

@@ -1,0 +1,75 @@
+Books
+BookId countOfPage Name 
+
+Autors
+AutorId FirsName Lastname Country 
+
+BookAutor
+id BookId AutorId
+1    1       2
+2    1       1
+
+SELECT Name FROM Books Where
+
+SELEST first last from autors where  
+
+
+SELECT elements.ID, elements.Element, groups.Genre
+  FROM elements
+LEFT OUTER JOIN group_elements
+  ON elements.ID = group_elements.ElementID
+ AND group_elements.GroupID = 3
+LEFT OUTER JOIN groups
+  ON group_elements.GroupID = groups.ID
+
+select book.name from books left join bootautor b.bookid= ba.bookId 
+
+=========================================================
+What are all unique first names of the people i know?
+--------------------------------------------------------
+SELECT DISTINCT p.first_name FROM person p;
+=========================================================
+
+
+=========================================================
+Who are all the people in my contact list that are named Jon or Fritz?
+---------------------------------------------------------
+SELECT p.first_name p.last_name FROM person p WHERE p.first_name IN ('Jon', 'Fritz')
+=========================================================
+
+
+=========================================================
+What is the count of unique first names among my contacts?
+---------------------------------------------------------
+SELECT COUNT (DISTINCT p. first-name) FROM person p;
+=========================================================
+
+
+=========================================================
+What is the count of every unique first name among my contacts?
+---------------------------------------------------------
+SELECT COUNT (p.first_name), p.first_name FROM person p GROUP BY p.first_name
+=========================================================
+
+
+=========================================================
+What is the count of unique first names among my contacts that apper at least 5 times?
+---------------------------------------------------------
+SELECT COUNT (DISTINCT p.first_name), p.first_name FROM  person p GROUP BY p.first_name HAVING COUNT (DISTINCT p.first_name) >= 5;
+=========================================================
+
+
+=========================================================
+What are my contacts' email addresses?
+---------------------------------------------------------
+SELECT p.first_name , p.last_name, e.email_address FROM person p INNER JOIN email_address e ON p.person_id = e.email_address_person_id;
+=========================================================
+
+
+=========================================================
+What are my contacts and their email addresses, including thouse I don't havve an email for?
+---------------------------------------------------------
+SELECT p.first_name , p.last_name, e.email_address FROM person p LEFT OUTER JOIN email_address e ON p.person_id = e.email_address_person_id;
+=========================================================
+
+
